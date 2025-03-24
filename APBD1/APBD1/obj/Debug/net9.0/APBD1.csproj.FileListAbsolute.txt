@@ -1,0 +1,14 @@
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\bin\Debug\net9.0\APBD1.exe
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\bin\Debug\net9.0\APBD1.deps.json
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\bin\Debug\net9.0\APBD1.runtimeconfig.json
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\bin\Debug\net9.0\APBD1.dll
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\bin\Debug\net9.0\APBD1.pdb
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\obj\Debug\net9.0\APBD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\obj\Debug\net9.0\APBD1.AssemblyInfoInputs.cache
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\obj\Debug\net9.0\APBD1.AssemblyInfo.cs
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\obj\Debug\net9.0\APBD1.csproj.CoreCompileInputs.cache
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\obj\Debug\net9.0\APBD1.dll
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\obj\Debug\net9.0\refint\APBD1.dll
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\obj\Debug\net9.0\APBD1.pdb
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\obj\Debug\net9.0\APBD1.genruntimeconfig.cache
+C:\Users\janio\Desktop\Projekty MISC\APBD1\APBD1\obj\Debug\net9.0\ref\APBD1.dll
